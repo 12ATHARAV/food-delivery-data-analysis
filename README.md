@@ -16,6 +16,8 @@ This project analyzes a food delivery dataset by integrating data from multiple 
 - Python
 - Pandas
 - SQLite
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Key Insights
